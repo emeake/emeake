@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm ston - linux user and packager. I'm developing gadgets and my own projects that help me use linux. Currently in collage.
 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,lua,java,rust,go,c,cs,bash,html,js&perline=5)](https://skillicons.dev)
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git&perline=5)](https://skillicons.dev)
+
+### Editors
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim&perline=5)](https://skillicons.dev)
 <!--
 **emeake/emeake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
